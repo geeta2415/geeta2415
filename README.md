@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=geeta2415&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeta2415&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geeta2415&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geeta2415&theme=tokyonight" />
 </div>
 
 ## 🧠 About Me
