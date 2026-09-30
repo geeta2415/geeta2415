@@ -22,12 +22,16 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=geeta2415&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geeta2415&theme=tokyonight" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geeta2415&theme=tokyonight" />
+<img height="170" src="https://raw.githubusercontent.com/geeta2415/geeta2415/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="170" src="https://raw.githubusercontent.com/geeta2415/geeta2415/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+<img height="170" src="https://raw.githubusercontent.com/geeta2415/geeta2415/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/geeta2415/geeta2415/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </div>
 
 ## 🧠 About Me
